@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "city": "hannover",
+  "repository": "crimemaps-Hannover",
+  "base_path": "/crimemaps-Hannover/",
+  "artifact_budget_bytes": 900000000,
+  "publication_ready": false
+}
