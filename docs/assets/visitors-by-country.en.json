@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "city": "hannover",
+  "locale": "en",
+  "layout": "wide",
+  "presentation": "world_map_and_rank",
+  "path": "docs/assets/visitors-by-country.en.svg",
+  "sha256": "54b253f88040701e66c618a49dfd910722aec83bad3cd202a17755409f690ed0",
+  "source_kind": "not_connected",
+  "collection_status": "not_connected",
+  "metric": null,
+  "source": null,
+  "generated_at_utc": null
+}
